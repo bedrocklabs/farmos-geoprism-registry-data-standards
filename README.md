@@ -1,1 +1,1 @@
-# farmos-geoprism-registry-data-standards
+# regenerative-project-data-standards
